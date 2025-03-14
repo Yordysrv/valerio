@@ -1,0 +1,39 @@
+h1{
+    font-size: 3erm;
+    color: azuress;
+}
+.titulo{
+    color: hwb(0 95% 3%);
+} 
+.parrafo{
+    color: rgb(247, 248, 247);
+}
+
+#seccion1{
+    color: hsl(322, 97%, 51%);
+    font-size: 75px;
+    text-align: center;
+    backdrop-filter:  url(//cdn.pixabay.com/photo/2025/03/12/18/43/chinese-new-year-9466072_1280.jpg);
+background-size: 300px 100px;
+background-color: aquamarine;
+}
+#proyectos{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.proyecto img {
+    width: 75%;
+    text-align:center;
+}
+.texto1{
+    color: hsl(107, 94%, 52%);
+    font-size: 50px;
+}
+.texto2{
+    color: hsl(62, 96%, 48%);
+    font-size: 25px;
+}
+.texto3{
+    color: rgb(242, 245, 242);
+    font-size: 45px;
+ }
