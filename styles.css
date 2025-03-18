@@ -14,7 +14,7 @@ h1{
     font-size: 50px;
     text-align: center;
     backdrop-filter:  url(//cdn.pixabay.com/photo/2025/03/12/18/43/chinese-new-year-9466072_1280.jpg);
-background-size: 300px 100px;
+background-size: 100px 100px;
 background-color: aquamarine;
 }
 #proyectos{
@@ -22,18 +22,18 @@ background-color: aquamarine;
     grid-template-columns: auto auto;
 }
 .proyecto img {
-    width: 75%;
+    width: 50%;
     text-align:center;
 }
 .texto1{
     color: hsl(107, 94%, 52%);
-    font-size: 50px;
+    font-size: 30px;
 }
 .texto2{
     color: hsl(62, 96%, 48%);
-    font-size: 25px;
+    font-size: 20px;
 }
 .texto3{
     color: rgb(242, 245, 242);
-    font-size: 45px;
+    font-size: 35px;
  }
